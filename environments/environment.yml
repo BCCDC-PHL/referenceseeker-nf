@@ -1,0 +1,9 @@
+name: referenceseeker
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3
+  - referenceseeker=1.8.0
+  - quast=5.0.2
